@@ -1,0 +1,2 @@
+# aw34_module3
+render_application_hotel
