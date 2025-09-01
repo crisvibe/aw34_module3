@@ -21,5 +21,18 @@
     "passport-local": "^1.0.0",
     "sequelize": "^6.27.0",
     "sqlite3": "^5.0.2"
-  }
+  },
+  "description": "Hi",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisvibe/aw34_module3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisvibe/aw34_module3/issues"
+  },
+  "homepage": "https://github.com/crisvibe/aw34_module3#readme"
 }
